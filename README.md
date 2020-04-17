@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I'm kurumi, from Japan. Learning programming.
